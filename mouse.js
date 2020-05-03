@@ -1,4 +1,5 @@
 function Mouse(name){
-    this.name = name
+    this.name = name;
+
 }
-module.export = Mouse;
+module.exports = Mouse;
